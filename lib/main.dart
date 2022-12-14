@@ -75,7 +75,7 @@ class _MyAppState extends State<MyApp> {
       children: [
         Image.asset('image/iphone.jpg',fit: BoxFit.contain,),
         Text(
-          'Memory:12/256\nColor: gold\nBirth year:2022',
+          'Memory:12/256\nColor: yellow\nBirth year:2022',
           style: TextStyle(color: Colors.black, fontSize: 20),
         )
       ],
